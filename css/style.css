@@ -1,0 +1,57 @@
+
+body{
+
+}
+
+.navbar {
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+#showcase {
+  /* position: relative; */
+  background: url("../img/banner-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 400px; 
+}
+
+.large-logo{
+  float: left;
+  padding-right:3px;
+  padding-bottom:3px;
+ 
+
+}
+
+#bottom-links ul{
+  list-style: none;
+  padding-left: 0;
+  padding-top:0;
+}
+
+#bottom-links ul li a{
+ color: rgb(142, 146, 150);
+  
+}
+
+#footer ul{
+  list-style: none;
+  padding-left: 0;
+  padding-top:0;
+
+}
+
+#footer ul li {
+  display: inline;
+  padding: 0 6px;
+  margin-top: 3px;
+ }
+
+
+#footer ul li a{
+  color: rgb(142, 146, 150); 
+ }
+  
